@@ -10,7 +10,7 @@ This repository is where I document my journey from beginner to expert in C++.
 ## 📚 Progress Tracker
 
 - ✅ Day 1: Hello World, Printing Name & Hobby
-- 🔜 Day 2: Input/Output and Arithmetic
+- ✅ Day 2: Input/Output and Arithmetic
 - 🔜 Day 3: If/Else and Conditions
 - 🔜 Day 4: Loops and Patterns
 - 🔜 Day 5: Functions and Scope
