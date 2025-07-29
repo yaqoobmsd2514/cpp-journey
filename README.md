@@ -36,10 +36,8 @@ cpp-journey/
 │   ├── for-loop.cpp
 │   ├── while-loop.cpp
 │   ├── do-while-loop.cpp
-│   ├── table_of_2.cpp
+│   ├── table.cpp
 │   ├── even_1_to_100.cpp
-│   ├── sum_n_numbers.cpp
-│   ├── factorial.cpp
 │   └── pyramid_pattern.cpp
 ├── Projects/
 ├── README.md
