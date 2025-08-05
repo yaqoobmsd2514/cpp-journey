@@ -14,8 +14,9 @@ This repository is where I document my journey from beginner to expert in C++.
 - ✅ Day 3: If/Else and Conditions  
 - ✅ Day 4: Loops and Pattern Programs  
 - ✅ Day 5: Functions and Scope  
-- 🔜 Day 6+: Arrays, Pointers, OOP, STL, Projects
-
+- ✅ Day 6: Arrays - Declaration, Input/Output, Sum, Max, Min  
+- 🔜 Day 7+: Pointers, Strings, OOP, STL, Projects
+  
 ---
 
 ## 🗂️ Folder Structure
@@ -46,6 +47,11 @@ cpp-journey/
 │   ├── Function-with-default-parameter.cpp
 │   ├── factorial-function.cpp
 │   └── max-of-three.cpp
+├── Day06_Arrays/
+│ ├── array-declaration.cpp
+│ ├── array-input-output.cpp
+│ ├── array-sum-average.cpp
+│ └── array-max-min.cpp
 ├── Projects/
 ├── README.md
 ```
