@@ -13,7 +13,7 @@ This repository is where I document my journey from beginner to expert in C++.
 - ✅ Day 2: Input/Output and Arithmetic  
 - ✅ Day 3: If/Else and Conditions  
 - ✅ Day 4: Loops and Pattern Programs  
-- 🔜 Day 5: Functions and Scope  
+- ✅ Day 5: Functions and Scope  
 - 🔜 Day 6+: Arrays, Pointers, OOP, STL, Projects
 
 ---
@@ -39,6 +39,13 @@ cpp-journey/
 │   ├── table.cpp
 │   ├── even_1_to_100.cpp
 │   └── pyramid_pattern.cpp
+├── Day05_Functions_Scope/
+│   ├── function-with-no-parameters-or-return-value.cpp
+│   ├── Function-with-parameters-no-return-value.cpp
+│   ├── Function-with-parameters-and-return-value.cpp
+│   ├── Function-with-default-parameter.cpp
+│   ├── factorial-function.cpp
+│   └── max-of-three.cpp
 ├── Projects/
 ├── README.md
 ```
@@ -48,6 +55,4 @@ cpp-journey/
 ## 🌐 Follow My Journey
 
 💼 GitHub: [yaqoobmsd2514](https://github.com/yaqoobmsd2514)  
-📢 LinkedIn: (www.linkedin.com/in/yaqoob-m)
-
----
+📢 LinkedIn: www.linkedin.com/in/yaqoob-m
